@@ -1,0 +1,29 @@
+footer{
+    background: var(--gray-one);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+.ctnFooter{
+    width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+.footerItem{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.footerItem a{
+    color: white;
+    font: 14px "poppins-regular";
+}
+.footerItem a:hover{
+    text-decoration: underline;
+}
+.footerItem .subTitle{
+    font: 16px "poppins-medium";
+}

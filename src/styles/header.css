@@ -1,0 +1,42 @@
+header{
+    height: 70px;
+    padding: 0 30px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--gray-one);
+  }
+  .header-busqueda{
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .header-busqueda input{
+    width: 100%;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+    padding: 0 20px;
+  }
+  .header-busqueda input:focus{
+    border: auto;
+    outline: none
+  }
+  .ctn-header{
+    display: flex;
+    width: 1280px;
+    box-sizing: border-box;
+    justify-content: space-between;
+    color: white;
+  }
+  .header-enlaces{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .header-enlaces a{
+    font: 18px "poppins-medium";
+    color: white;
+  }

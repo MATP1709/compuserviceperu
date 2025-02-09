@@ -1,0 +1,30 @@
+.ctnFilters{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.filters{
+    width: 1280px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.filtersPrice{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.filtersCategory{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.filtersCategory select{
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+.filtersCategory select:focus{
+    outline: none;
+}
