@@ -10,7 +10,7 @@
    "stock": 94,
    "brand": "Apple",
    "category": "smartphones",
-   "images": "/img/iphone9.png"
+   "images": "./assets/img/iphone9.png"
    },
    {
    "id": 2,
@@ -22,7 +22,7 @@
    "stock": 34,
    "brand": "Apple",
    "category": "smartphones",
-   "images": "/img/iphoneX.png"
+   "images": "./assets/img/iphoneX.png"
    },
    {
    "id": 3,
@@ -34,7 +34,7 @@
    "stock": 36,
    "brand": "Samsung",
    "category": "smartphones",
-   "images": "/img/samsung9.png"
+   "images": "./assets/img/Samsung9.png"
    },
    {
    "id": 4,
@@ -46,7 +46,7 @@
    "stock": 123,
    "brand": "OPPO",
    "category": "smartphones",
-   "images": "/img/OPPOF19.png"
+   "images": "./assets/img/OPPOF19.png"
    },
    {
    "id": 5,
@@ -58,7 +58,7 @@
    "stock": 32,
    "brand": "Huawei",
    "category": "smartphones",
-   "images": "/img/huaweiP30.png"
+   "images": "./assets/img/huaweiP30.png"
    },
    {
    "id": 6,
@@ -70,7 +70,7 @@
    "stock": 83,
    "brand": "Apple",
    "category": "laptops",
-   "images": "/img/macpro.png"
+   "images": "./assets/img/macpro.png"
    },
    {
    "id": 7,
@@ -82,7 +82,7 @@
    "stock": 50,
    "brand": "Samsung",
    "category": "laptops",
-   "images": "/img/SamsungGalaxyBook.png"
+   "images": "./assets/img/SamsungGalaxyBook.png"
    },
    {
    "id": 8,
@@ -94,7 +94,7 @@
    "stock": 68,
    "brand": "Microsoft Surface",
    "category": "laptops",
-   "images": "/img/MicrosoftSurfaceLaptop4.png"
+   "images": "./assets/img/MicrosoftSurfaceLaptop4.png"
    },
    {
    "id": 9,
@@ -106,7 +106,7 @@
    "stock": 96,
    "brand": "Infinix",
    "category": "laptops",
-   "images": "/img/InfinixINBOOK.png"
+   "images": "./assets/img/InfinixINBOOK.png"
    },
    {
    "id": 10,
@@ -118,7 +118,7 @@
    "stock": 89,
    "brand": "HP Pavilion",
    "category": "laptops",
-   "images": "/img/HPPavilion15.png"
+   "images": "./assets/img/HPPavilion15.png"
    },
    {
    "id": 11,
@@ -130,7 +130,7 @@
    "stock": 89,
    "brand": "Asus Rog",
    "category": "laptops",
-   "images": "/img/ASUSROGStrix.png"
+   "images": "./assets/img/ASUSROGStrix.png"
    },
    {
    "id": 12,
@@ -142,7 +142,7 @@
    "stock": 89,
    "brand": "MSI Sword 15",
    "category": "laptops",
-   "images": "/img/MSISword15A11UdIntel.png"
+   "images": "./assets/img/MSISword15A11UdIntel.png"
    },
    {
    "id": 13,
@@ -154,7 +154,7 @@
    "stock": 89,
    "brand": "Iphone",
    "category": "smartphones",
-   "images": "/img/iphone15.png"
+   "images": "./assets/img/iphone15.png"
    },
    {
    "id": 14,
@@ -166,7 +166,7 @@
    "stock": 89,
    "brand": "Iphone",
    "category": "smartphones",
-   "images": "/img/iphone16.png"
+   "images": "./assets/img/iphone16.png"
    }
    ],
    "total": 14,
